@@ -1,0 +1,17 @@
+#Take first input
+input_1 = int(input("Enter the first number: "))
+
+#Take second input
+input_2 = int(input("Enter the second number: "))
+
+# Print addition of both numbers
+print("Addition: ", input_1 + input_2)
+
+# Print subtraction of both numbers
+print("Subtraction: ", input_1 - input_2)
+
+# Print multiplication of both numbers
+print("Multiplication: ", input_1 * input_2)
+
+# Print division of both numbers
+print("Division: ", input_1 / input_2)
