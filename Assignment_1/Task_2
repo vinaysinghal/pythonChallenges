@@ -1,0 +1,8 @@
+# Take first name input
+first_name = input("Enter your first name: ")
+
+# Take last name input
+last_name = input("Enter your last name: ")
+
+# Show custom welcome message
+print(f"Hello, {first_name} {last_name}! Welcome to Python program.")
